@@ -1,4 +1,4 @@
-# AirBnB clone - Web dynamic1
+# AirBnB clone - Web dynamic
 V4 Prroject fetching data from api
 
 
